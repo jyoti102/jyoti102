@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jyoti102
-- 👀 I’m interested in fixing issues, solving problems, and learning new things.
+- 👀 I’m interested in fixing issues, solving problems/puzzles, and learning new things.
 - 🌱 I’m currently learning Linux and networking.
 - 💞️ I’m looking to collaborate on some projects related to java.
 - 📫 How to reach me:   
