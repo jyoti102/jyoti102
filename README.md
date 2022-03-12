@@ -9,6 +9,13 @@
           4. IG: `https://www.instagram.com/iamjyotisingh_/`  
           5. Twitter: `www.twitter.com/IamJyotiSingh_`   
           6. Skype: `jyotisingh102`   
+--- 
+#### TechStack
+ `Java` `Maven` `JSP` `Hibernate` `MySQL` `Tomcat` `Spring` `Jersey`
+
+#### Work Domain
+`Contact center solution` `E-Com`
+
 
 <!---
 jyoti102/jyoti102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
