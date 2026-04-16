@@ -1,5 +1,5 @@
 ##  👋 I'm Jyoti Singh  
-#### `Senior Software Engineer`
+##### `Senior Software Engineer` | `Backend Lead` | `Distributed Systems & System Design` 
 [![LeetCode](https://img.shields.io/badge/LeetCode-singhjyoti-orange?logo=leetcode\&logoColor=white)](https://leetcode.com/singhjyoti/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jyoti%20Singh-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jyoti-singh102)
 ---
@@ -35,6 +35,5 @@ Senior Backend Engineer with 7+ years of experience building scalable, high-avai
 * High Throughput & Low Latency Systems
 * Caching Strategies & Performance Optimization
 * REST API Design & System Scalability
-
 ---
 #### To know more about my work experince and projects [click here](https://github.com/jyoti102/Resume/blob/main/Jyoti_Senior_Software_Engineer_Backend_Java.pdf)
